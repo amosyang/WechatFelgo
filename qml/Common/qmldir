@@ -1,0 +1,4 @@
+module Common
+
+singleton   WString   1.0     ./WString.qml
+singleton   WColor    1.0     ./WColor.qml

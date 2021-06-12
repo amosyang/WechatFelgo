@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/DetailPage.qml</file>
+        <file>qml/Main.qml</file>
+        <file>qml/Page/Chats/ChatsPage.qml</file>
+        <file>qml/Page/Contacts/ContactsPage.qml</file>
+        <file>qml/Page/Discover/DiscoverPage.qml</file>
+        <file>qml/Page/Me/MePage.qml</file>
+        <file>qml/Common/qmldir</file>
+        <file>qml/Common/WString.qml</file>
+        <file>qml/Base/BaseButton.qml</file>
+        <file>qml/Common/WColor.qml</file>
+    </qresource>
+</RCC>
